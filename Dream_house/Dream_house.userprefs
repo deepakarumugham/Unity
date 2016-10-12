@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Udemy_Lesson_2_Brick_Breaker/Assets/Scripts/BottomCollider.cs">
+    <Files>
+      <File FileName="../Udemy_Lesson_2_Brick_Breaker/Assets/Scripts/Ball.cs" Line="58" Column="56" />
+      <File FileName="../Udemy_Lesson_2_Brick_Breaker/Assets/Scripts/BottomCollider.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
